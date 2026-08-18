@@ -1,6 +1,6 @@
 # Sayı Tahmin Oyunu
 
-C# kullanılarak geliştirilen basit bir sayı tahmin oyunudur.
+C# dili kullanılarak geliştirilen basit bir sayı tahmin oyunudur.
 
 ## Projenin Amacı
 
